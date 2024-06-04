@@ -13,7 +13,7 @@
 ---
 
 ### Project Overview
-The primary objective of the **CO PO Attainment** Software is to facilitate the systematic assessment and measurement of Course Outcomes (COs) and Program Outcomes (POs) in an educational institution. This software aims to streamline the process of data entry, evaluation, and reporting to ensure continuous improvement in the quality of education.
+In the pursuit of ensuring continuous improvement in the quality of education offered by our college, there is a need to systematically assess and measure the attainment of Course Outcomes (COs) and Program Outcomes (POs). This software allows administrators to manually enter data and utilize a set of performance evaluation criteria to quantitatively assess COs for each PO and Program Specific Outcomes (PSOs). A visual graph is displayed to compare the attainments for each PO and PSO.
 
 ---
 
