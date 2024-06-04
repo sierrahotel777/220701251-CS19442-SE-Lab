@@ -8,7 +8,7 @@
 |3.  | [Shakthi Priya V](https://github.com/) | 220701259 |
 |4. | [Sanjeevan Hari Sudhakar](https://github.com/sierrahotel777/) | 220701251 |
 |5.  | [Jayasuriyaa K S](https://github.com/) | 220701332 |
-|6. | [Gurubaran T](https://github.com/) | 220701522 |
+|6. | [Gurubaran T](https://github.com/Gurubaran-T/) | 220701522 |
 
 ---
 
